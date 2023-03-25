@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874353232669",
+    "project_id": "nonstopproject-8ed90",
+    "storage_bucket": "nonstopproject-8ed90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874353232669:android:09dd4bd8ca2254d32eeff4",
+        "android_client_info": {
+          "package_name": "com.example.nonstopioassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874353232669-3sca6827qgc817a8bcr76d4fr7s3t3t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaS9ZadrMd8qRNSlMJ_TxCf0fo_UfaRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874353232669-3sca6827qgc817a8bcr76d4fr7s3t3t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
